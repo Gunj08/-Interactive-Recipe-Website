@@ -31,7 +31,7 @@ YouTube video tutorial
 
 🔹 Welcome Page
 
-    ![Welcome Page]()
+    ![Welcome Page](https://github.com/Gunj08/-Interactive-Recipe-Website/blob/main/Screenshot%202025-08-17%20112740.png?raw=true)
 
 
 🔹 Recipe Card Example
