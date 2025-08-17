@@ -31,6 +31,9 @@ YouTube video tutorial
 
 🔹 Welcome Page
 
+    ![Welcome Page]()
+
+
 🔹 Recipe Card Example
 
 ---
