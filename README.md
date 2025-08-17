@@ -36,7 +36,7 @@ YouTube video tutorial
 🔹 Recipe Card Example
 
    ![image alt](https://github.com/Gunj08/-Interactive-Recipe-Website/blob/main/Screenshot%202025-08-17%20112814.png?raw=true)
-   ![image alt]()
+   ![image alt](https://github.com/Gunj08/-Interactive-Recipe-Website/blob/main/Screenshot%202025-08-17%20112911.png?raw=true)
    
 ---
 
