@@ -31,11 +31,11 @@ YouTube video tutorial
 
 🔹 Welcome Page
 
-   ![image alt](https://github.com/Gunj08/Library-_AI-_Chatbot/blob/main/Journy_to_cloud_page-0001.jpg?raw=true)
+   ![image alt](https://github.com/Gunj08/-Interactive-Recipe-Website/blob/main/Screenshot%202025-08-17%20112740.png?raw=true)
 
 🔹 Recipe Card Example
 
-   ![image alt](https://github.com/Gunj08/Library-_AI-_Chatbot/blob/main/Journy_to_cloud_page-0001.jpg?raw=true)
+   ![image alt]()
    
 ---
 
