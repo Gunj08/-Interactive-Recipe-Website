@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Interactive Recipe Book</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- WELCOME -->
+  <section class="hero" id="hero">
+    <div class="hero-inner">
+      <h1>Welcome to Recipe World</h1>
+      <p>10 delicious, step-by-step recipes with images, videos and a built-in timer.</p>
+      <button class="btn" id="start">Start Cooking</button>
+    </div>
+  </section>
+
+  <!-- APP -->
+  <main class="app" id="app">
+    <!-- Top bar -->
+    <div class="bar">
+      <div class="brand"><span class="dot"></span> Interactive Recipe Book</div>
+      <div class="controls">
+        <button class="nav-btn" id="prev">⟵ Prev</button>
+        <select id="picker" aria-label="Select recipe"></select>
+        <button class="nav-btn" id="next">Next ⟶</button>
+        <span class="chip" id="indexLabel">1 / 10</span>
+      </div>
+    </div>
+
+    <!-- Card -->
+    <article class="card" aria-live="polite">
+      <img id="img" class="media" alt="Recipe image" />
+      <div class="content">
+        <section>
+          <h2 class="title" id="title">Recipe</h2>
+          <div class="meta" id="meta">Prep: — | Cook: — | Serves: —</div>
+          <div class="section">
+            <h3>Ingredients</h3>
+            <ul id="ingredients"></ul>
+          </div>
+        </section>
+
+        <section>
+          <div class="section">
+            <h3>Steps</h3>
+            <ol id="steps"></ol>
+          </div>
+          <iframe id="video" class="video" allowfullscreen title="Recipe video"></iframe>
+        </section>
+      </div>
+
+      <footer class="actions">
+        <div class="progress-wrap">
+          <span>Progress</span>
+          <div class="progress" aria-label="Recipe progress">
+            <span id="bar"></span>
+          </div>
+        </div>
+
+        <div class="action-group">
+          <span class="timer" id="timer"><span class="dot"></span> <span id="clock">00:00</span></span>
+          <button class="btn secondary" id="startTimer">Start</button>
+          <button class="btn secondary" id="pauseTimer">Pause</button>
+          <button class="btn secondary" id="resetTimer">Reset</button>
+        </div>
+
+        <div class="action-group">
+          <button class="btn" id="prev2">⟵ Previous</button>
+          <button class="btn" id="next2">Next ⟶</button>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <script src="script.js"></script>
+</body>
+
+</html>
