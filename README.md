@@ -54,13 +54,15 @@ JavaScript (ES6) – Interactivity (Timer, Navigation)
 
 ⚡ How to Run
 
-Clone the repository:
+1. Clone the repository:
 
-Open the folder and run:
+     "https://github.com/Gunj08/-Interactive-Recipe-Website"
 
-cd recipe-website
+2. Open the folder and run:
 
-Open index.html in any modern browser (Chrome/Edge/Firefox).
+     "cd Interactive-Recipe-Website"
+
+3. Open index.html in any modern browser (Chrome/Edge/Firefox).
 
 ---
 
