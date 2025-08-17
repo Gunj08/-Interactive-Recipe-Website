@@ -88,4 +88,4 @@ Fetch recipes dynamically using an API
 Gunjan Kumari
 BCA Student | Passionate about Web Development
 
-🌐 LinkedIn | 📧 gunjankumarikushwaha080@gmail.com
+ 📧 gunjankumarikushwaha080@gmail.com
